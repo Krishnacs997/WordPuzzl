@@ -1,0 +1,182 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "letters": ["C", "A", "T"],
+      "gridWords": ["CAT", "AT"],
+      "extraWords": ["ACT", "TA"],
+      "layout": {
+        "rows": 2,
+        "cols": 3,
+        "placements": [
+          { "word": "CAT", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "AT", "row": 0, "col": 1, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "letters": ["D", "O", "G"],
+      "gridWords": ["DOG", "GO"],
+      "extraWords": ["GOD", "DO"],
+      "layout": {
+        "rows": 2,
+        "cols": 3,
+        "placements": [
+          { "word": "DOG", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "GO", "row": 0, "col": 2, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "letters": ["S", "U", "N"],
+      "gridWords": ["SUN", "US"],
+      "extraWords": ["NUS"],
+      "layout": {
+        "rows": 2,
+        "cols": 3,
+        "placements": [
+          { "word": "SUN", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "US", "row": 0, "col": 1, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "letters": ["B", "E", "E"],
+      "gridWords": ["BEE", "BE"],
+      "extraWords": [],
+      "layout": {
+        "rows": 2,
+        "cols": 3,
+        "placements": [
+          { "word": "BEE", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "BE", "row": 0, "col": 0, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "letters": ["T", "R", "E", "E"],
+      "gridWords": ["TREE", "TEE", "RE"],
+      "extraWords": ["RET", "ERE"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "TREE", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "TEE", "row": 0, "col": 0, "direction": "DOWN" },
+          { "word": "RE", "row": 1, "col": 1, "direction": "ACROSS" }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "letters": ["L", "A", "K", "E"],
+      "gridWords": ["LAKE", "LEA", "ALE"],
+      "extraWords": ["ELK", "KALE", "KEA"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "LAKE", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "LEA", "row": 0, "col": 0, "direction": "DOWN" },
+          { "word": "ALE", "row": 2, "col": 1, "direction": "ACROSS" }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "letters": ["S", "T", "A", "R"],
+      "gridWords": ["STAR", "ART", "RAT"],
+      "extraWords": ["SAT", "TAR", "TARS", "RATS", "TSAR"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "STAR", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "ART", "row": 0, "col": 2, "direction": "DOWN" },
+          { "word": "RAT", "row": 2, "col": 0, "direction": "ACROSS" }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "letters": ["W", "O", "R", "D"],
+      "gridWords": ["WORD", "ROW", "OW"],
+      "extraWords": ["ROD", "DOW"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "WORD", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "ROW", "row": 0, "col": 2, "direction": "DOWN" },
+          { "word": "OW", "row": 2, "col": 1, "direction": "ACROSS" }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "letters": ["P", "L", "A", "Y"],
+      "gridWords": ["PLAY", "PAY", "LAY"],
+      "extraWords": ["PAL", "YAP", "ALP"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "PLAY", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "PAY", "row": 0, "col": 0, "direction": "DOWN" },
+          { "word": "LAY", "row": 0, "col": 1, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "letters": ["G", "A", "M", "E"],
+      "gridWords": ["GAME", "AGE", "ME"],
+      "extraWords": ["GEM", "MAG", "MEG"],
+      "layout": {
+        "rows": 3,
+        "cols": 4,
+        "placements": [
+          { "word": "GAME", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "AGE", "row": 0, "col": 1, "direction": "DOWN" },
+          { "word": "ME", "row": 2, "col": 2, "direction": "ACROSS" }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "letters": ["B", "R", "A", "I", "N"],
+      "gridWords": ["BRAIN", "RAIN", "AIR", "BIN"],
+      "extraWords": ["RAN", "RIB", "BAR", "NIB", "BAN", "NAB", "IRA"],
+      "layout": {
+        "rows": 4,
+        "cols": 5,
+        "placements": [
+          { "word": "BRAIN", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "RAIN", "row": 0, "col": 1, "direction": "DOWN" },
+          { "word": "AIR", "row": 1, "col": 1, "direction": "ACROSS" },
+          { "word": "BIN", "row": 0, "col": 0, "direction": "DOWN" }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "letters": ["H", "O", "U", "S", "E"],
+      "gridWords": ["HOUSE", "USE", "HOE", "SHOE"],
+      "extraWords": ["SHE", "HUE", "HOSE", "SOU", "HES"],
+      "layout": {
+        "rows": 4,
+        "cols": 5,
+        "placements": [
+          { "word": "HOUSE", "row": 0, "col": 0, "direction": "ACROSS" },
+          { "word": "USE", "row": 0, "col": 2, "direction": "DOWN" },
+          { "word": "HOE", "row": 2, "col": 0, "direction": "ACROSS" },
+          { "word": "SHOE", "row": 0, "col": 3, "direction": "DOWN" }
+        ]
+      }
+    }
+  ]
+}
